@@ -1,0 +1,23 @@
+{
+  "name": "coffeepuppystore",
+  "version": "1.0.0",
+  "description": "A dynamic web application for Coffee Puppy Store",
+  "main": "MainController",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pen1112003/CoffeePuppyStore.git"
+  },
+  "author": "Pen1112003",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pen1112003/CoffeePuppyStore/issues"
+  },
+  "homepage": "https://github.com/Pen1112003/CoffeePuppyStore#readme"
+}

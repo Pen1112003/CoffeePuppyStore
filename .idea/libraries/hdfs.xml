@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hdfs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-2.7/share/hadoop/hdfs/hadoop-hdfs-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-2.7/share/hadoop/hdfs/hadoop-hdfs-nfs-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-2.7/share/hadoop/hdfs/hadoop-hdfs-2.7.0-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
