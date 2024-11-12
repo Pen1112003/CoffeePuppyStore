@@ -4,7 +4,6 @@
  */
 package dao;
 
-import static com.sun.xml.internal.ws.spi.db.BindingContextFactory.LOGGER;
 import dto.Order;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
